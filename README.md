@@ -42,7 +42,8 @@ This guide breaks down the major techniques, compares them side by side, and giv
 
 
 
-<img width="1367" height="702" alt="image" src="https://github.com/user-attachments/assets/fa8ae997-faf5-4d8c-a729-799cfc77b552" />
+<img width="942" height="705" alt="image" src="https://github.com/user-attachments/assets/748d37de-0ae3-4b15-b206-1e8eb033001d" />
+
 
 ---
 
