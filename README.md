@@ -40,6 +40,10 @@ This guide breaks down the major techniques, compares them side by side, and giv
 | 9 | **RLHF** (RL from Human Feedback) | A reward model trained on human preference rankings guides further tuning via reinforcement learning (typically PPO). | [Ouyang et al., 2022 — *Training Language Models to Follow Instructions with Human Feedback* (InstructGPT)](https://arxiv.org/abs/2203.02155) |
 | 10 | **Full Fine-Tuning** | Updates every parameter in the model on your dataset — the most powerful and most expensive option. | [Hugging Face — *Fine-tuning a pretrained model*](https://huggingface.co/docs/transformers/en/training) |
 
+
+
+<img width="1367" height="702" alt="image" src="https://github.com/user-attachments/assets/fa8ae997-faf5-4d8c-a729-799cfc77b552" />
+
 ---
 
 ## Cost, time & complexity comparison
